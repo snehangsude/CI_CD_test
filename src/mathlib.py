@@ -7,5 +7,5 @@ def subtraction(num1, num2):
     return num1 - num2
 
 
-if __name__ == "__main__":
-    addition(8, 10)
+# if __name__ == "__main__":
+#     addition(8, 10)
